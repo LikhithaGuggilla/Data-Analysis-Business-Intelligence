@@ -26,7 +26,7 @@ This dashboard provides key performance indicators (KPIs) and metrics tailored f
 
 ---
 
-## 🔄 Customer Retention Dashboard  
+## Customer Retention Dashboard  
 **Audience:** Retention Managers  
 
 ### **Overview**  
@@ -50,7 +50,7 @@ This dashboard & analysis provides key performance indicators (KPIs) and metrics
 
 ---
 
-## 🏢 HR Diversity & Inclusion Dashboard  
+## HR Diversity & Inclusion Dashboard  
 **Audience:** HR Leaders  
 
 ### **Overview**  
