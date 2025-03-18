@@ -14,6 +14,8 @@ The Analysis and Dashboard development is conducted for PwC’s Customer Service
 ### **Overview**  
 This dashboard provides key performance indicators (KPIs) and metrics tailored for telecom industry call center managers, enabling them to gain valuable insights into customer satisfaction and drive improvements in service quality.
 
+![Customer Service Dashboard](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Customer_Service_Dashboard.png)
+
 ### **Insights & Actions**  
 1. Too Many Dropped Calls (18.92% Abandoned) - Almost 1 in 5 customers hang up before getting help.  
    - More agents during peak hours (at noon/evening) or a callback option.  
@@ -30,7 +32,11 @@ This dashboard provides key performance indicators (KPIs) and metrics tailored f
 **Audience:** Retention Managers  
 
 ### **Overview**  
-This dashboard & analysis provides key performance indicators (KPIs) and metrics designed for Retention Managers in the telecom industry, offering deep insights into customer churn patterns and enabling strategic actions to enhance retention and service quality.  
+This dashboard & analysis provides key performance indicators (KPIs) and metrics designed for Retention Managers in the telecom industry, offering deep insights into customer churn patterns and enabling strategic actions to enhance retention and service quality. 
+
+![Customer Dashboard](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Customer_Dashboard.png)
+
+![Customer Churn Dashboard](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Customer_Churn_Analysis.png)
 
 ### **Insights & Actions**  
 1. Customers who do not have a partner or dependents are at a higher risk of churn compared to those with family connections.  
@@ -55,6 +61,10 @@ This dashboard & analysis provides key performance indicators (KPIs) and metrics
 
 ### **Overview**  
 This dashboard and analysis provide key performance indicators (KPIs) and metrics tailored for HR leaders in the telecom industry, offering critical insights into gender balance, promotion trends, and workforce retention. It helps identify gaps in diversity and inclusion efforts, enabling data-driven strategies to foster equitable career progression and leadership representation.
+
+![Diversity & Inclusion Dashboard1](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Diversity%20%26%20Inclusion_Dashboard1.png)
+
+![Diversity & Inclusion Dashboard2](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Diversity%26Inclusion_Dashboard2.png)
 
 ### **Insights**  
 1. Women are hired more for junior roles, but executive hiring and promotions remain 100% male. 
