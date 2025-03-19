@@ -9,17 +9,23 @@ This project analyzes and visualizes four years (2005–2008) of sales transacti
 3. **Visual Representations** - Develop interactive dashboards to present insights clearly and support data-driven decision-making.
 
 ## Tools Used  
-MS Excel
+- MS Excel
+
+## Excel Analysis :
+
 - Data Load: Excel (Live Connection)  
 - Data Transformation: Power Query  
 - Data Modeling: Power Pivot  
 - Dashboard Development: Excel (Pivot Tables, Slicers, Measures, DAX Formulae, Formatting)
 - Formula: INDEX, MATCH, IFERROR, VLOOKUP etc
 
-## Excel Analysis :
+![Analysis-1](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/Sales_Profit_Analysis%20%26%20Dashboard/Images/Analysis-1.png)
 
+![Analysis-2](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/Sales_Profit_Analysis%20%26%20Dashboard/Images/Analysis-2.png)
 
-##  Dashboard : 
+##  Dashboard :
+
+![Dashboard](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/Sales_Profit_Analysis%20%26%20Dashboard/Images/Profit%20Analysis.png)
 
 ---
 
