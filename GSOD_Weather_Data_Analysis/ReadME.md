@@ -1,4 +1,4 @@
-# **Advanced Weather Analysis Using PySpark**
+# **GSOD Weather Analysis Using PySpark**
 
 ## **Overview**  
 This project leverages PySpark to analyze the Global Summary of the Day (GSOD) dataset, containing **12 million rows and 32 columns**. The goal is to conduct advanced weather data analysis using **PySpark SQL, Pandas UDFs, and window functions**, demonstrating the ability to efficiently process large datasets.
@@ -52,15 +52,21 @@ This project demonstrates proficiency in PySpark, particularly in big data proce
 * **Hottest & Windiest Periods:**
     - Identified the hottest month/year in the world.
 
+![HottestPlace](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/GSOD_Weather_Data_Analysis/Images/Hottest%20Place.png)
+
     **It is hot and windy at Khanaqin and July 2018 is the hottest.**
 
 * **Rolling Temperature Trends:**
     - Finding the hottest and windiest months/years at a given station.
+ 
+  ![RollingTemperatureTrends](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/GSOD_Weather_Data_Analysis/Images/Rolling%20Teamperature%20Trends.png)
 
     The plot shows a clear seasonal temperature pattern with peaks in summer (mostly May) and dips in winter, indicating a cyclical trend. The fluctuations suggest consistent yearly temperature variations.
 
 * **Consecutive Days Analysis:**
     - Created a column to track maximum consecutive days ≥90°F in the hottest month identified (May).
+ 
+  ![ConsecutiveDaysAnalysis](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/GSOD_Weather_Data_Analysis/Images/Consecutive%20Day%20Analysis.png)
 
     The plot shows the cumulative count of days where temperature exceeded a threshold (e.g., ≥90°F) in May 2018 for a specific station. A steady increase in the latter part of the month indicates a prolonged period of extreme heat.
 
