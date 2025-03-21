@@ -14,7 +14,7 @@ This project analyzes Paycheck Protection Program (PPP) loan data from the SBA, 
 
 ## **Dataset & Tools**  
 ### **Data Sources**  
-- PPP Loan Data (~2.76 Millions of records)  
+- PPP Loan Data (~2.76 Millions of records)  [https://data.sba.gov/dataset/ppp-foia]
 - Census Data (Socioeconomic indicators)  [https://github.com/Ro-Data/Ro-Census-Summaries-By-Zipcode]
 
 ### **Tech Stack**  
