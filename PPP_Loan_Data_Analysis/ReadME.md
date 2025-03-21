@@ -22,6 +22,15 @@ This project analyzes Paycheck Protection Program (PPP) loan data from the SBA, 
 - Pandas (Data Handling)  
 - Matplotlib & Seaborn (Visualization)  
 ---
+## **Snapshots**
+
+![Dataset](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PPP_Loan_Data_Analysis/Images/Dataset.png)
+
+---
+
+![Code](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PPP_Loan_Data_Analysis/Images/Code.png)
+
+---
 
 ## **Skills & Learnings in PySpark**  
 This project enhanced proficiency in handling large-scale datasets and optimized data processing workflows. Key learnings:  
