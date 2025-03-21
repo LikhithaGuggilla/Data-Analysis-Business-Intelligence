@@ -1,1 +1,1 @@
-
+This dashboard analyzes Netflix's movie and TV show offerings, highlighting content distribution by country, rating, genre, and year. It reveals trends in media production, popular genres, and the growth of Netflix's library.
