@@ -3,7 +3,7 @@
 The Analysis and Dashboard development is conducted for PwC’s Customer Service and HR departments to provide meaningful insights that create opportunities to enhance customer retention and employee inclusion.
 
 ## Tools Used
-- Power BI *(Power Query, DAX, Measures)*
+- Power BI *(Power Query, DAX, Measures, Calculated Fields, Designing & Formatting)*
 - MS Excel
 
 ---
