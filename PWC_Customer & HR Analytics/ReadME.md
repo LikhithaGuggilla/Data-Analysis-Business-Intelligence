@@ -62,7 +62,7 @@ This dashboard & analysis provides key performance indicators (KPIs) and metrics
 ### **Overview**  
 This dashboard and analysis provide key performance indicators (KPIs) and metrics tailored for HR leaders in the telecom industry, offering critical insights into gender balance, promotion trends, and workforce retention. It helps identify gaps in diversity and inclusion efforts, enabling data-driven strategies to foster equitable career progression and leadership representation.
 
-![Diversity & Inclusion Dashboard1](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Diversity%20%26%20Inclusion_Dashboard1.png)
+![Diversity & Inclusion Dashboard1](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Diversity%26Inclusion_Dashboard1.png)
 
 ![Diversity & Inclusion Dashboard2](https://github.com/LikhithaGuggilla/Data-Analysis-Business-Intelligence/blob/main/PWC_Customer%20%26%20HR%20Analytics/Images/Diversity%26Inclusion_Dashboard2.png)
 
